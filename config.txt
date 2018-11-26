@@ -1,0 +1,6 @@
+token=NTE2NjEyMTEwNjA4NzYwODMy.Dt2MFQ.UCF3VljD_32uYZfrRiY9cKeKDl4
+owner=490803489765720064
+prefix= b
+game= Type bhelp
+stayinchannel=true
+songinstatus=true
